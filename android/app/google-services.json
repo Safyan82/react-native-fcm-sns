@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905404831586",
+    "project_id": "boxsns-7c36b",
+    "storage_bucket": "boxsns-7c36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905404831586:android:51b0c330df494016dc7e3b",
+        "android_client_info": {
+          "package_name": "com.exposns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZoFH1bS0ts48s6Vy_PPbU6GTuH3Zd8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905404831586:android:cdd5622c8dc49d0edc7e3b",
+        "android_client_info": {
+          "package_name": "com.snsexpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZoFH1bS0ts48s6Vy_PPbU6GTuH3Zd8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
